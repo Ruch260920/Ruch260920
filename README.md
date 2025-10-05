@@ -100,7 +100,6 @@ I thrive at the intersection of **Data Engineering, MLOps, and Applied Machine L
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruch260920&layout=compact&theme=radical)
-![Ruchi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruch260920&show_icons=true&theme=radical)
 
 ---
 
