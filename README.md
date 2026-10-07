@@ -1,113 +1,121 @@
-# 👋 Hi there, I'm **Ruchi Manjalkar**
+# Hi, I'm Ruchi Manjalkar 👋
 
-🎯 **AI Engineer | Data Scientist | Data Enthusiast**
+**Data Scientist | AI Engineer | Data Engineer**  
+📍 Mannheim, Germany
 
-I’m passionate about building data-driven, scalable, and intelligent systems that create real business impact.  
-I prototype and deploy **Generative AI** and **Machine Learning** solutions for real-world applications — from sports sentiment analysis to AI-driven automation.  
-I thrive at the intersection of **Data Engineering, MLOps, and Applied Machine Learning**, turning data into actionable insights and intelligent products.
+I build data platforms and applied AI systems that connect messy real-world data with useful analytical products. My work spans environmental intelligence, agentic AI, NLP, forecasting, and data engineering.
 
----
+At **e.Ray Europa**, I work on an AI-ready environmental data platform, combining hands-on engineering with project-management responsibilities. I enjoy working across the full workflow: understanding requirements, integrating data, checking its quality, developing analytical solutions, and making the results accessible through APIs and dashboards.
 
-## 🧠 About Me
-- 💻 Building AI-powered prototypes using **GPT-based agents**, **PyTorch**, and **TensorFlow**
-- ☁️ Experienced in **AWS**, **GCP**, **Docker**, **CI/CD**, and **Kubernetes** for scalable ML pipelines
-- 📊 Strong foundation in **Data Science**, **Analytics**, and **Visualization (Power BI, Tableau)**
-- 🌱 Pursuing **M.Sc. in Applied Data Science & Analytics** at SRH Hochschule Heidelberg
-- 🤝 Open to collaborations in **AI, ML, and Data Engineering** projects
+## What I'm working on
 
----
+- **Environmental data products:** Integrating climate, hydrological, sensor, river, and satellite sources into reusable datasets.
+- **Reliable data foundations:** Building ingestion pipelines, harmonized PostgreSQL models, validation checks, and traceable processing.
+- **Applied AI:** Exploring multi-agent workflows, forecasting, anomaly detection, NLP, LLMs, and RAG.
+- **Delivery and collaboration:** Connecting technical and analytical requirements through project coordination and interdisciplinary teamwork.
 
-## 🛠 Tech Stack
+## Technical toolkit
 
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+**Programming and analysis**  
+Python · SQL · R · Pandas · NumPy · SciPy
 
-**AI / ML / Generative AI**  
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FEDC00?style=flat&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+**Machine learning and AI**  
+PyTorch · TensorFlow/Keras · scikit-learn · NLP · Transformers · LLMs · RAG · Forecasting · Anomaly detection · OpenCV
 
-**Data Engineering & Cloud**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+**Data engineering and platforms**  
+PostgreSQL · PostGIS · ETL/ELT · REST APIs · Pydantic · Redis · Celery · Docker · Linux · Git/GitHub · AWS · GCP
 
-**Visualization & Tools**  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+**Geospatial and visualization**  
+GeoPandas · Rasterio · GDAL · Power BI · Streamlit · Tableau · Matplotlib
 
----
+**Additional exposure**  
+CUDA · NVIDIA NeMo · Knowledge graphs
 
-## 💼 Experience
+## Experience
 
-### 🧠 AI Engineer | Stealth AI (Omnisent.io) — *Jan 2025 – September 2025*
-- Built and deployed **Generative AI** and **ML-powered** automation tools using **GPT APIs**, **PyTorch**, and **Streamlit**  
-- Led rapid AI prototyping from idea to deployment — improving throughput by **30%** and cutting costs by **30%**  
-- Designed scalable AI workflows using **AWS SageMaker**, **Docker**, and **CI/CD pipelines**
+### e.Ray Europa GmbH
+**Data Scientist / Data Engineer · Heidelberg, Germany**  
+11/2025 – Present
 
-### 🏦 Deputy Manager | HDFC Bank — *Apr 2022 – Sep 2023*
-- Enhanced **Loan Management Systems** through **Data Lake** migration, improving data accuracy by **97%**  
-- Automated reporting pipelines using **Hadoop**, **Spark**, and **Talend**
+- Develop **e.datalake**, an AI-ready platform integrating environmental datasets through PostgreSQL, harmonized data models, and REST APIs.
+- Build ingestion and transformation pipelines for sources including DWD, UBA, BfG, Open-Meteo, LAWA, and WISE.
+- Implement checks for completeness, freshness, schemas, units, and spatial-temporal consistency, supported by governance logs and traceable processing.
+- Work with satellite and geospatial datasets, including Sentinel-1 water monitoring, EnMAP integration, and HydroATLAS/HydroBASINS.
+- Contribute to forecasting, anomaly detection, automated reporting, and project management.
 
-### 🧩 Project Intern | Jio Platforms Ltd — *Mar 2021 – Jun 2021*
-- Developed and tested a **Computer Vision application (Project Mirage)** converting static images into video sequences
+### Omnisent Sports
+**Data Science Intern · Remote**  
+06/2025 – 09/2025
 
----
+- Developed real-time sentiment-analysis pipelines using Twitter/X and Reddit data during live sports events.
+- Built ingestion workflows with APIs, Celery, Redis, and PostgreSQL; applied NLP, transformers, and topic modeling.
+- Created analytical dashboards and KPI systems with Streamlit and Power BI.
 
-## 🧪 Projects
+### SRH University
+**Student Assistant / AI Committee Board Member · Germany**  
+10/2024 – 09/2025
 
-### 🌊 AI-Agentic Framework for Harmful Algal Blooms (HAB)
-- Multi-agent system predicting algae outbreaks using **LSTM**, **XGBoost**, and **climate data (ERA5, Sentinel-2)**
-- Integrated **data harmonization**, **real-time forecasting**, and **geospatial visualization (QGIS, Plotly)**
+- Supported interdisciplinary AI research, workshops, and university initiatives.
+- Collaborated on machine-learning, forecasting, and data-engineering prototypes.
 
-### 💬 Generative AI Chatbot Prototype
-- Built domain-specific chatbot using **OpenAI GPT-4** + **RAG**, deployed with **Streamlit** & **Docker**
-- Achieved **25% boost** in user satisfaction via prompt optimization
+### HDFC Bank
+**Deputy Manager / System Analyst · Mumbai, India**  
+07/2022 – 10/2023
 
-### 🩻 Pneumonia Detection + Retail Demand Forecasting App
-- Dual-purpose Streamlit app combining **DenseNet121 CNN (Grad-CAM)** and **SARIMA/ARIMA** forecasting models
+- Developed SQL transformation and reporting workflows for banking analytics and operational automation.
+- Worked with business and technology stakeholders to translate requirements into structured data workflows.
+- Undertook project-management responsibilities alongside systems and analytics work.
 
-### 📊 US FBI Hate Crime Dashboard
-- Tableau + Python dashboard analyzing decade-long US hate crime trends (2009–2019)
+### Jio
+**Project Intern / Summer Intern · Mumbai, India**  
+02/2021 – 08/2021
 
----
+- Worked on image remodeling and computer vision using Python and OpenCV, alongside full-stack analytical workflows.
 
-## 🎓 Education
+## Projects
 
-🎓 **M.Sc. in Applied Data Science & Analytics** — SRH Hochschule Heidelberg, Germany  
-🎓 **B.Tech in Electronics Engineering** — K.J. Somaiya College of Engineering, India  
-🎓 **Blended Intensive Program (AI & Innovation)** — FH St. Pölten, Austria  
+### 🌊 Agentic AI Framework for Harmful Algal Blooms
+**Master's thesis · Thesis defense grade 1.0**
 
----
+Designed a climate-driven framework with **nine autonomous AI agents** for forecasting, anomaly detection, and environmental monitoring. Integrated climate, hydrological, sensor, and satellite inputs into coordinated workflows for data preparation and predictive analysis.
 
-## 🧾 Certifications
-- 🧩 NVIDIA – *Building LLMs with Prompt Engineering*  
-- 🧠 AWS Certified Cloud Practitioner  
-- 🧮 Deep Learning A–Z (Udemy)  
-- 🐍 Python for Everybody (Coursera)  
+### 🌍 MRV Environmental Intelligence
 
----
+Built data workflows and API architectures for environmental monitoring, harmonization, validation, and automated reporting.
 
-## 📊 GitHub Stats
+### 🏭 Manufacturing Anomaly Detection
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruch260920&layout=compact&theme=radical)
+Developed a **variational autoencoder** anomaly-detection system using production sensor data, with Streamlit dashboards for exploring results.
 
----
+### 💬 Real-Time Sports Sentiment Analysis
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/ruchi-manjalkar-360a97191)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat)](https://github.com/Ruch260920)
-[![Email](https://img.shields.io/badge/-Email-informational?logo=gmail&style=flat)](mailto:ruchimanjalkar23@gmail.com)
+Developed NLP pipelines that connect social-media ingestion, transformer-based analysis, asynchronous processing, and dashboards.
 
----
+### 🩻 Medical Imaging in AI
 
-## 🚀 *Let’s innovate, collaborate, and make AI practical!*
+Applied machine-learning and image-processing techniques to healthcare imaging and predictive-analysis workflows.
+
+## Education
+
+- **M.Sc. Applied Data Science and Analytics** — SRH Hochschule Heidelberg, Germany · 2023–2025
+- **B.Tech Electrical and Electronics Engineering** — K.J. Somaiya College of Engineering, India · 2018–2022
+- **Academic Exchange Programme** — St. Pölten University of Applied Sciences, Austria · 05/2024
+
+## Certifications
+
+- AWS Certified Data Engineer Associate · 2026
+- Building LLM Applications with Prompt Engineering
+- The Complete SQL Bootcamp
+- Programming for Everybody
+- Python Data Structures
+
+## Publication
+
+Coauthor of **Disease Prediction From Various Symptoms Using Machine Learning**, SSRN, 2020.  
+[Read the paper](https://doi.org/10.2139/ssrn.3661426)
+
+## Let's connect
+
+I'm open to conversations and collaborations around **applied AI, environmental intelligence, data platforms, and reliable data products**.
+
+[LinkedIn](https://www.linkedin.com/in/ruchi-manjalkar-360a97191) · [GitHub](https://github.com/Ruch260920) · [Email](mailto:ruchimanjalkar23@gmail.com)
